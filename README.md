@@ -2,7 +2,7 @@
 
 ## Hello, World!
 
-Hi there! this is the GitHub repository where these articles will live and be updated. My first plan was to use Google Cloud, but I'm already familiar with version control with Git, so here we are.
+Hi there! this is the GitHub repository where these articles will live and be updated. My first plan was to use Google Cloud, but I quickly realized I was making it far more complex than it has to be. If you want to know how it works, I'll be writing a short article on my design in the near future.
 
 ## Caveats
 
@@ -10,7 +10,7 @@ While you will be able to read these articles using GitHub's Markdown reader, I 
 
 ## What's with the license?
 
-While I believe that everyone has the right to learn, I don't believe it should come with opportunities for bad actors to copy content without attribution. I whole-heartedly want you to share these articles with others!! All I ask is that you give some sort of attribution if you use or remix my content. Happy reading!
+While I believe that everyone has the right to learn, I don't believe it should come with opportunities for bad actors to copy content without attribution. I whole-heartedly want you to share these articles with others! (as long as their name isn't ChatGPT) All I ask is that you give some sort of attribution if you use or remix my content. Happy reading!
 
 ---
 
